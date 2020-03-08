@@ -167,9 +167,9 @@ footer{
 @media only screen and (max-width: 600px) {
      #product{margin-top: -120px;}
     #product-border ul{border-bottom: 1px solid #ddd;padding-bottom: 10px;}
-    #opacity{width: 80%;margin-bottom: 20px; margin-left: 5%;}
+    #opacity{}
     #number{margin-left: 3%;}
     #hover-product{margin-top: 20px;}
     #left-arrow{margin-left: 20px;position: relative}
-    #right-arrow{margin-right: -605px;margin-top: -26px;position: absolute;}
+    #right-arrow{margin-right: -605px;position: absolute;}
 }
