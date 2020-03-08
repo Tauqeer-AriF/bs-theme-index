@@ -27,6 +27,14 @@ body {
     font-weight: 500;
     font-style: normal;
 }
+
+#nav-search{
+    display: none;
+    height: 50px;
+}
+.fa-search{
+    cursor: pointer;
+}
 .container{font-family: 'Montserrat-Medium';}
 #navbar{
     font-family: 'Montserrat-Medium';
